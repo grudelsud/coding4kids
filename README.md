@@ -13,6 +13,7 @@ A curated list of resources for an introduction to coding. All links on this pag
 - [Lego mindstorms](https://www.lego.com/en-us/mindstorms)
 - [Turing tumble](https://www.turingtumble.com/)
 - [Unity playground](https://learn.unity.com/project/unity-playground) a simplified set of Unity features for an introduction to writing games
+- [Farm Bot](https://farm.bot)  includes robotics, software, farming and saving the planet in one bundle. 
 
 
 ## Tutorials
