@@ -38,3 +38,4 @@ A curated list of resources for an introduction to coding. All links on this pag
 - [Hello World! 2nd edition](https://www.manning.com/books/hello-world-second-edition), for 12yo and above
 - [3D Game programming for Kids](https://pragprog.com/book/csjava2/3d-game-programming-for-kids-second-edition)
 - [Get Coding!](https://www.amazon.co.uk/Get-Coding-Learn-JavaScript-website/dp/1406366846)
+-[Coding Games in Scratch](https://www.amazon.com/dp/1465439358?creativeASIN=1465439358&imprToken=pO1GUtR3BIWQibjbR5ZMlQ&slotNum=1&tag=avatarge06-20&linkCode=ogi&th=1&psc=1)
